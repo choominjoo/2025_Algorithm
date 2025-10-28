@@ -128,13 +128,3 @@ print(f(6))   # 8
   → 동일한 하위 문제를 여러 번 푸는 구조  
 - **최적 부분 구조(Optimal Substructure)**  
   → 전체 문제의 최적해가 부문제의 최적해 조합으로 얻어짐
-
----
-
-## 📚 참고문헌
-- 이상호, *컴퓨터 알고리즘의 이해*, 이화여자대학교출판부, 2015  
-- 이형원, *차근차근 이해하는 알고리즘*, 정익사, 2021  
-- 양성봉, *알기 쉬운 알고리즘*, 생능출판사, 2013  
-- John Bentley, *생각하는 프로그래밍*, 인사이트, 2003  
-- Robert Sedgewick & Kevin Wayne, *Algorithms (4th Edition)*, 길벗, 2018  
-- T. Cormen et al., *Introduction to Algorithms (3rd Edition)*, 2009  
